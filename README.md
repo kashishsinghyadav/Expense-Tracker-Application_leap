@@ -7,6 +7,6 @@ This is a Expense_tracker application built for leap finance
 # Backend
 
 ``` 
-NODE.JS , SQL Database
+JAVA , SQL Database
  ```
 
